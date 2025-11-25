@@ -37,11 +37,7 @@ Replace `app.py` if your file name is different.
 
 ## How It Works
 
-You begin by entering your **HasData API key**.
-
-[![Sign up](media/sign-up.gif)](https://hasdata.com/)
-
-Then you select a keyword, the number of pages you want to scrape, the starting page, and any filters that match your region or language.
+You begin by entering your **HasData API key**. Then you select a keyword, the number of pages you want to scrape, the starting page, and any filters that match your region or language.
 There’s also a time filter so you can focus on fresh news: past hour, day, week, month, or year.
 
 The app builds a Google News request with these parameters and sends it to:
@@ -78,3 +74,4 @@ These examples are for **educational purposes** only. Learn more about [the lega
 * [Join the community on Discord](https://hasdata.com/join-discord)
 
 * [Star this repo if helpful ⭐](#)
+
