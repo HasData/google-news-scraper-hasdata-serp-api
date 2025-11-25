@@ -11,7 +11,7 @@ It’s helpful for researchers, analysts, creators, and teams who need structure
 
 ## 🚀 What This App Does
 
-[![Preview](media/serp.png)](https://hasdata.com/)
+[![Preview](media/serp.png)](https://news-scraper-from-serp.streamlit.app/)
 
 You can enter your HasData API key, define a search query, choose time and region filters, and run a multi-page scrape of Google News.
 The app sends your query to HasData’s Google SERP API, fetches the `newsResults`, and displays them in a clean table.
@@ -76,4 +76,5 @@ These examples are for **educational purposes** only. Learn more about [the lega
 * [Scraping Google News: The 2025 Python Guide](https://hasdata.com/blog/web-scraping-google-news)
 * [HasData Google SERP API](https://hasdata.com/google-serp-api)
 * [Join the community on Discord](https://hasdata.com/join-discord)
+
 * [Star this repo if helpful ⭐](#)
