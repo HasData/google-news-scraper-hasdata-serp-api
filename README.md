@@ -2,7 +2,7 @@
 
 # Google News Scraper using HasData Google SERP API
 
-[![HasData\_bannner](media/banner.png)](https://hasdata.com/)
+[![HasData\_bannner](media/banner.png)](https://hasdata.com/?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-google-news&utm_content=google-news-scraper-hasdata-serp-api-readme)
 
 This Streamlit app lets you scrape **Google News** using the **HasData Google SERP API**.
 You can search by keyword, filter results by time, language, or region, scrape multiple pages, preview the results, and export them as JSON or CSV.
@@ -64,14 +64,14 @@ Time filters and pagination make it possible to use this dataset for trend analy
 
 ## Disclaimer
 
-These examples are for **educational purposes** only. Learn more about [the legality of web scraping](https://hasdata.com/blog/is-web-scraping-legal).
+These examples are for **educational purposes** only. Learn more about [the legality of web scraping](https://hasdata.com/blog/is-web-scraping-legal?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-google-news&utm_content=google-news-scraper-hasdata-serp-api-readme).
 
 
 ## 📎 More Resources
 
-* [Scraping Google News: The 2025 Python Guide](https://hasdata.com/blog/web-scraping-google-news)
-* [HasData Google SERP API](https://hasdata.com/google-serp-api)
-* [Join the community on Discord](https://hasdata.com/join-discord)
+* [Scraping Google News: The 2025 Python Guide](https://hasdata.com/blog/web-scraping-google-news?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-google-news&utm_content=google-news-scraper-hasdata-serp-api-readme)
+* [HasData Google SERP API](https://hasdata.com/google-serp-api?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-google-news&utm_content=google-news-scraper-hasdata-serp-api-readme)
+* [Join the community on Discord](https://hasdata.com/join-discord?utm_source=github&utm_medium=syndication&utm_campaign=web-scraping-google-news&utm_content=google-news-scraper-hasdata-serp-api-readme)
 
 * [Star this repo if helpful ⭐](#)
 
